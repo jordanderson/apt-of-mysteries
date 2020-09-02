@@ -26,13 +26,13 @@ Thanks for agreeing to take care of my apartment while I'm away.
 
 2) Water my plants. I left a pitcher for you on the counter.        
 
-3) Feed my puppy.  You haven't met him yet, but he's so sweet to me."       
+3) Feed my puppy.  You haven't met him yet, but he's so sweet to me. Look for the secret lever to his playpen, as I like to keep him hidden from theives."       
 
 The player carries the note from your friend .
 
     Front of building is a room.  "You are standing outside of your friend's building, with a note from your friend, mailbox key, and oak wand in your hands. "  
 
-It is east of lobby. 
+It is east of Lobby. 
 
 
 Chapter 2 - Brightly Lit Hallway
@@ -42,6 +42,7 @@ Brightly Lit Hallway is a room. "[if unvisited]You step off the elevator and the
 The elevator is a thing. "You took the elevator to the fifth floor."
 
 The black door is a locked door. "The black door in front of you has E15 printed on it." It is south of Brightly Lit Hallway and north of the Apartment Foyer. 
+
 
  
 
@@ -149,7 +150,13 @@ A hairbrush is here.
  
 Chapter 12 - Lobby
 
-Lobby is a room. "You are greeted by a smiling wizard, opening the door with his wand and saying 'Hello, young man!'  And lets you in. You are in your friend's lobby. You see a table with mail and packages and a black leather couch next to it." It is west of Front of building. 
+Lobby is a room. "You are greeted by a smiling wizard, opening the door with his wand and saying 'Hello, young man!'  And lets you in. You are in your friend's lobby. You see a table with packages and a black leather couch next to it. There are mailboxes for dozens of apartments mounted to the wall." It is west of Front of building.  
+
+A table with packages, a black leather couch, and mailboxes for dozens of apartments are scenery in the Lobby. Understand "t" as the cup of writing utencils. Understand "computer" as the laptop. Understand "copier" as the printer.  Understand "table" or "table with packages" as table with packages."books" or "book" as the books. Understand "drawers" as the desk. Understand "pencil" or "pen" as the cup of writing utencils.
+
+Instead of sitting on the couch:
+	say "You don't have time for relaxing."
+	
 
 
 

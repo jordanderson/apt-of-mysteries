@@ -18,7 +18,7 @@ picture 1 "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover
 
 ! Placeholder variables
 
-placeholder [IFID] = "361D5F8E-21B9-4C6A-94BF-3984C1F1658D"
+placeholder [IFID] = "6C2AFA55-99D4-411E-845A-94AE7665BCD2"
 placeholder [RELEASE] = "1"
 placeholder [YEAR] = "2020"
 placeholder [TITLE] = "The Apartment of Mysteries"
